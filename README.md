@@ -7,7 +7,7 @@
 
 This is a simple web application built using ReactJS and hooks that displays a dynamic menu with categories such as breakfast, lunch, dinner, and sweets. The menu data is fetched from a custom API that provides the necessary information for each menu item.
 
-![Alt text](https://github.com/thecamron/Raw/blob/main/freshfast--menucard-full-page-preview.png)
+![Alt text](https://raw.githubusercontent.com/actron-git/menucard/main/freshfast--menucard-full-page-preview.png)
 
 
 
